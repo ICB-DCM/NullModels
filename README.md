@@ -12,7 +12,7 @@ The following models are supported:
 
 ## Organization of the code:
 
-- **Skript.m**: Run this script to read in data + evaluate data as well as to replicate the figures from [our publication](https://www.biorxiv.org/content/early/2018/09/06/409946.full.pdf). You need to download the data from the supplementary of [O'Neil et al. 2016](http://mct.aacrjournals.org/content/15/6/1155.long) and change the values of `singleDrugData =...` (line 6) and `CombinationData =`(line 9) to the directories of the corresponding files on your coumputer.
+- **Skript.m**: Run this script to read in data + evaluate data as well as to replicate the figures from [our publication](https://www.biorxiv.org/content/early/2018/09/06/409946.full.pdf). You need to download the data from the supplementary of [O'Neil et al. 2016](http://mct.aacrjournals.org/content/15/6/1155.long) and change the values of `singleDrugData =...` (line 6) and `CombinationData = ...`(line 9) to the directories of the corresponding files on your coumputer.
 
 ### Data structure
 The data structure is given in the corresponding folder.
