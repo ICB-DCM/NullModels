@@ -3,10 +3,10 @@
 % This script reads in the data from O'Neil et al.
 
 
-singleDrugData = 'C:\Users\Jakob Vanhoefer\Desktop\Uni\Helmholtz\Modified Loewe mit Mark\Code\Data\156849_1_supp_0_w2lh45.xlsx';
+singleDrugData = 'FILL_IN_YOUR_DIRECTORY_HERE\Data\156849_1_supp_0_w2lh45.xlsx';
 % change to file path of the single drug data of O'Neil et al. 2016
 
-CombinationData = 'C:\Users\Jakob Vanhoefer\Desktop\Uni\Helmholtz\Modified Loewe mit Mark\Code\Data\156849_1_supp_1_w2lrww.xls';
+CombinationData = 'FILL_IN_YOUR_DIRECTORY_HERE\Data\156849_1_supp_1_w2lrww.xls';
 % change to file path of the combination data of O'Neil et. al 2016
 
 %% Read in data
