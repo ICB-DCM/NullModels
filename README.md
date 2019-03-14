@@ -23,7 +23,7 @@ The data structure is given in the corresponding folder.
 - **Data**: Stores all data, that is read in (data comes from [O'Neil et al. 2016](http://mct.aacrjournals.org/content/15/6/1155.long)),
 
 ### Plots
-The functions are in the folder **plot**
+The functions are in the folder **Plots**
 - **IsobolePlot**: Isoboles of the different null models. Used in Figure 7. (Call `IsobolePlot(D, 2, 3) ` ).
 - **CorrPlots.m**: Correlates the predicion of different null models. Used in Figure 8. (Call `CorrPlots(D.CellLines{3})`) .
 - **VolumeMetricConceptPlot** and **VolPlot** Plot volumes between the predicted and the measured response surfaces. (Not used in the publication. Call e.g. `VolumeMetricConceptPlot` and `VolPlot(D)`).
